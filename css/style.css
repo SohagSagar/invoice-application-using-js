@@ -1,0 +1,36 @@
+.informations{
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#company-info i{
+    text-align: left;
+    margin-bottom: 5px;
+    font-size: 50px;
+}
+#company-info p{
+    text-align: left;
+    line-height: 0.5;
+    font-size: 14px;
+}
+.customer-info h5,p{
+    text-align: right;
+    line-height: 0.5;
+    font-size: 14px;
+}
+.fa-industry{
+    font-size: 50px;
+    display: flex;
+    justify-content: start;
+
+}
+.information-section{
+    background-color: rgb(221, 231, 228);
+    padding: 40px;
+}
+
+.table tr th,td{
+    text-align: left;
+}
